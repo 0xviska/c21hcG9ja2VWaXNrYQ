@@ -12,73 +12,49 @@ mode AUTO: akun=1 menu=Claim Daily, Auto All Tasks, Verify Single Task, Watch An
 
 
 ===== [1/1] Viska =====
-[1]Viska       |01:58:48 | 12-10-2026| login OK @viskamiranda | score=960 rank=6164
-[1]Viska       |01:58:48 | 12-10-2026| serverTime=2026-10-12T01:58:48.000Z local=2026-10-12T01:58:48.780Z
+[1]Viska       |11:50:09 | 12-10-2026| login OK @viskamiranda | score=1050 rank=5782
+[1]Viska       |11:50:09 | 12-10-2026| serverTime=2026-10-12T11:50:09.000Z local=2026-10-12T11:50:09.668Z
 --> [1]Viska menjalankan: Claim Daily
-[1]Viska       |01:58:50 | 12-10-2026| daily: OK +10 poin score=970
---> [1]Viska menjalankan: Auto All Tasks (8 pending)
-[1]Viska       |01:58:52 | 12-10-2026| [1/8] cdea075d (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"553e7e04-7389-4083-9b6f-270e66241a4e","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"210817406471203 | proof=https://x.com/viskamiranda/status/2109463352232923941
-[1]Viska       |01:58:52 | 12-10-2026| delay 10s...
-[1]Viska       |01:59:04 | 12-10-2026| [2/8] c0692622 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"553e7e04-7389-4083-9b6f-270e66241a4e","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"210817406471203 | proof=https://x.com/viskamiranda/status/2109463200338023007
-[1]Viska       |01:59:04 | 12-10-2026| delay 10s...
-[1]Viska       |01:59:17 | 12-10-2026| [3/8] cbf91691 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"553e7e04-7389-4083-9b6f-270e66241a4e","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"210817406471203 | proof=https://x.com/viskamiranda/status/2109463445451865970
-[1]Viska       |01:59:17 | 12-10-2026| delay 10s...
-[1]Viska       |01:59:29 | 12-10-2026| [4/8] 65e97767 (link) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"553e7e04-7389-4083-9b6f-270e66241a4e","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"210817406471203
-[1]Viska       |01:59:29 | 12-10-2026| delay 10s...
-[1]Viska       |01:59:41 | 12-10-2026| [5/8] abf84ab9 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"553e7e04-7389-4083-9b6f-270e66241a4e","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"210817406471203 | proof=https://x.com/viskamiranda/status/2109463524062331110
-[1]Viska       |01:59:41 | 12-10-2026| delay 10s...
-[1]Viska       |01:59:53 | 12-10-2026| [6/8] 43abe690 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"553e7e04-7389-4083-9b6f-270e66241a4e","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"210817406471203 | proof=https://x.com/viskamiranda/status/2109463539177183252
-[1]Viska       |01:59:53 | 12-10-2026| delay 10s...
-[1]Viska       |02:00:05 | 12-10-2026| [7/8] 1499c73c (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"553e7e04-7389-4083-9b6f-270e66241a4e","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"210817406471203 | proof=https://x.com/viskamiranda/status/2109463451743768466
-[1]Viska       |02:00:05 | 12-10-2026| delay 10s...
-[1]Viska       |02:00:16 | 12-10-2026| [8/8] e62ee4d9 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"553e7e04-7389-4083-9b6f-270e66241a4e","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"210817406471203 | proof=https://x.com/viskamiranda/status/2109463543002673411
-[1]Viska       |02:00:16 | 12-10-2026| mode auto: verify 1 task pertama (pakai --limit N untuk atur, atau jalan interaktif untuk pilih).
-[1]Viska       |02:00:18 | 12-10-2026| [1/1] cdea075d (reply) verify OK http=200 resp={"ok":true,"already":true,"points":10,"taskState":{"tasks":[{"id":"553e7e04-7389-4083-9b6f-270e66241a4e","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"2108174064712032 | proof=https://x.com/viskamiranda/status/2109463831970146270
+[1]Viska       |11:50:10 | 12-10-2026| daily: sudah klaim (already=true) score=1050
+--> [1]Viska menjalankan: Auto All Tasks (5 pending)
+[1]Viska       |11:50:13 | 12-10-2026| [1/5] 52236caa (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"553e7e04-7389-4083-9b6f-270e66241a4e","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"210817406471203 | proof=https://x.com/viskamiranda/status/2109612038288374658
+[1]Viska       |11:50:13 | 12-10-2026| delay 10s...
+[1]Viska       |11:50:25 | 12-10-2026| [2/5] fa907706 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"553e7e04-7389-4083-9b6f-270e66241a4e","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"210817406471203 | proof=https://x.com/viskamiranda/status/2109612198078560784
+[1]Viska       |11:50:25 | 12-10-2026| delay 10s...
+[1]Viska       |11:50:39 | 12-10-2026| [3/5] f3c57454 (link) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"553e7e04-7389-4083-9b6f-270e66241a4e","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"210817406471203
+[1]Viska       |11:50:39 | 12-10-2026| delay 10s...
+[1]Viska       |11:50:51 | 12-10-2026| [4/5] 446fd4f4 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"553e7e04-7389-4083-9b6f-270e66241a4e","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"210817406471203 | proof=https://x.com/viskamiranda/status/2109612462631581141
+[1]Viska       |11:50:51 | 12-10-2026| delay 10s...
+[1]Viska       |11:51:03 | 12-10-2026| [5/5] 7411ef73 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"553e7e04-7389-4083-9b6f-270e66241a4e","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"210817406471203 | proof=https://x.com/viskamiranda/status/2109612522291208682
+[1]Viska       |11:51:03 | 12-10-2026| mode auto: verify 1 task pertama (pakai --limit N untuk atur, atau jalan interaktif untuk pilih).
+[1]Viska       |11:51:05 | 12-10-2026| [1/1] 52236caa (reply) verify OK http=200 resp={"ok":true,"already":true,"points":10,"taskState":{"tasks":[{"id":"553e7e04-7389-4083-9b6f-270e66241a4e","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"2108174064712032 | proof=https://x.com/viskamiranda/status/2109612443145414400
 --> [1]Viska menjalankan: Watch Anime
-[1]Viska       |02:00:19 | 12-10-2026| watch: 1 video belum completed: oshi-first-journey
-[1]Viska       |02:00:19 | 12-10-2026| watch [1/1] farming oshi-first-journey...
-[1]Viska       |02:00:20 | 12-10-2026| watch oshi-first-journey: 0% (0.00/87.00s)
-[1]Viska       |02:00:27 | 12-10-2026| watch oshi-first-journey: 5% (5.14/87.00s)
-[1]Viska       |02:00:33 | 12-10-2026| watch oshi-first-journey: 12% (11.14/87.00s)
-[1]Viska       |02:00:39 | 12-10-2026| watch oshi-first-journey: 18% (16.51/87.00s)
-[1]Viska       |02:00:45 | 12-10-2026| watch oshi-first-journey: 25% (21.94/87.00s)
-[1]Viska       |02:00:51 | 12-10-2026| watch oshi-first-journey: 31% (27.33/87.00s)
-[1]Viska       |02:00:58 | 12-10-2026| watch oshi-first-journey: 37% (33.06/87.00s)
-[1]Viska       |02:01:04 | 12-10-2026| watch oshi-first-journey: 44% (39.02/87.00s)
-[1]Viska       |02:01:10 | 12-10-2026| watch oshi-first-journey: 51% (44.44/87.00s)
-[1]Viska       |02:01:16 | 12-10-2026| watch oshi-first-journey: 57% (49.79/87.00s)
-[1]Viska       |02:01:22 | 12-10-2026| watch oshi-first-journey: 63% (55.19/87.00s)
-[1]Viska       |02:01:28 | 12-10-2026| watch oshi-first-journey: 69% (60.61/87.00s)
-[1]Viska       |02:01:34 | 12-10-2026| watch oshi-first-journey: 75% (66.08/87.00s)
-[1]Viska       |02:01:40 | 12-10-2026| watch oshi-first-journey: 82% (71.44/87.00s)
-[1]Viska       |02:01:46 | 12-10-2026| watch oshi-first-journey: 88% (77.18/87.00s)
-[1]Viska       |02:01:53 | 12-10-2026| watch oshi-first-journey: 94% (82.63/87.00s)
-[1]Viska       |02:01:53 | 12-10-2026| watch oshi-first-journey: COMPLETED (82.63/87.00s)
+[1]Viska       |11:51:06 | 12-10-2026| watch: semua video sudah completed
 --> [1]Viska menjalankan: Read Article
-[1]Viska       |02:01:54 | 12-10-2026| news: 24/24 artikel selesai dibaca
-[1]Viska       |02:01:54 | 12-10-2026| mint eligibility: {"userId":"1917959156587483136","youtube":{"url":"https://www.youtube.com/@viskamiranda","status":"submitted","revision":"e3d02e1f-b59f-4e1a-b890-3aab6039f0d5","submittedAt":1791669755,"reviewedAt":17
-[1]Viska       |02:01:54 | 12-10-2026| news: semua artikel sudah dibaca
+[1]Viska       |11:51:07 | 12-10-2026| news: 24/24 artikel selesai dibaca
+[1]Viska       |11:51:08 | 12-10-2026| mint eligibility: {"userId":"1917959156587483136","youtube":{"url":"https://www.youtube.com/@viskamiranda","status":"submitted","revision":"e3d02e1f-b59f-4e1a-b890-3aab6039f0d5","submittedAt":1791669755,"reviewedAt":17
+[1]Viska       |11:51:08 | 12-10-2026| news: semua artikel sudah dibaca
 --> [1]Viska menjalankan: Quiz Anime
-[1]Viska       |02:01:55 | 12-10-2026| quiz ep1: sudah dijawab
-[1]Viska       |02:01:55 | 12-10-2026| quiz ep2: sudah dijawab
-[1]Viska       |02:01:55 | 12-10-2026| quiz ep3: sudah dijawab
-[1]Viska       |02:01:55 | 12-10-2026| quiz ep4: sudah dijawab
-[1]Viska       |02:01:55 | 12-10-2026| quiz ep5: sudah dijawab
-[1]Viska       |02:01:55 | 12-10-2026| quiz ep6: sudah dijawab
+[1]Viska       |11:51:08 | 12-10-2026| quiz ep1: sudah dijawab
+[1]Viska       |11:51:08 | 12-10-2026| quiz ep2: sudah dijawab
+[1]Viska       |11:51:08 | 12-10-2026| quiz ep3: sudah dijawab
+[1]Viska       |11:51:08 | 12-10-2026| quiz ep4: sudah dijawab
+[1]Viska       |11:51:08 | 12-10-2026| quiz ep5: sudah dijawab
+[1]Viska       |11:51:08 | 12-10-2026| quiz ep6: sudah dijawab
 --> [1]Viska menjalankan: Music Missions (realtime, bisa lama!)
-[1]Viska       |02:01:56 | 12-10-2026| music: kedua misi sudah tercapai, stop
-[1]Viska       |02:01:57 | 12-10-2026| mission music-listens-10: sudah diklaim
-[1]Viska       |02:01:57 | 12-10-2026| mission music-minutes-30: sudah diklaim
-[1]Viska       |02:01:57 | 12-10-2026| mission anime-completed-3: sudah diklaim
+[1]Viska       |11:51:11 | 12-10-2026| music: kedua misi sudah tercapai, stop
+[1]Viska       |11:51:11 | 12-10-2026| mission music-listens-10: sudah diklaim
+[1]Viska       |11:51:11 | 12-10-2026| mission music-minutes-30: sudah diklaim
+[1]Viska       |11:51:11 | 12-10-2026| mission anime-completed-3: sudah diklaim
 --> [1]Viska menjalankan: Claim Missions
-[1]Viska       |02:01:57 | 12-10-2026| mission music-listens-10: sudah diklaim
-[1]Viska       |02:01:57 | 12-10-2026| mission music-minutes-30: sudah diklaim
-[1]Viska       |02:01:57 | 12-10-2026| mission anime-completed-3: sudah diklaim
+[1]Viska       |11:51:12 | 12-10-2026| mission music-listens-10: sudah diklaim
+[1]Viska       |11:51:12 | 12-10-2026| mission music-minutes-30: sudah diklaim
+[1]Viska       |11:51:12 | 12-10-2026| mission anime-completed-3: sudah diklaim
 --> [1]Viska menjalankan: Check Eligibility
 
 --- eligibility [1]Viska ---
-  @viskamiranda | score=960 rank=6164
-  tasks    [##################--] 72/80
+  @viskamiranda | score=1050 rank=5782
+  tasks    [###################-] 76/81
   mission  music-listens-10:      claimed
   mission  music-minutes-30:      claimed
   mission  anime-completed-3:     claimed
@@ -89,14 +65,14 @@ mode AUTO: akun=1 menu=Claim Daily, Auto All Tasks, Verify Single Task, Watch An
   mint: requirementsMet=true mintOpen=false discord=true
 
 --> [1]Viska menjalankan: Read Manga
-[1]Viska       |02:02:02 | 12-10-2026| manga: 0/13 chapter belum completed
+[1]Viska       |11:51:17 | 12-10-2026| manga: 0/13 chapter belum completed
 --> [1]Viska menjalankan: Get Gift
-[1]Viska       |02:02:02 | 12-10-2026| gift: 0/3 belum diterima
+[1]Viska       |11:51:17 | 12-10-2026| gift: 0/3 belum diterima
 --> [1]Viska menjalankan: Setup Profile
-[1]Viska       |02:02:03 | 12-10-2026| profile: bio="https://x.com/viskamiranda" fav=kagura rewardAt=1791689218
-[1]Viska       |02:02:03 | 12-10-2026| profile: bonus sudah diklaim, skip
+[1]Viska       |11:51:18 | 12-10-2026| profile: bio="https://x.com/viskamiranda" fav=kagura rewardAt=1791689218
+[1]Viska       |11:51:18 | 12-10-2026| profile: bonus sudah diklaim, skip
 --> [1]Viska menjalankan: Bind Wallet
-[1]Viska       |02:02:03 | 12-10-2026| wallet: sudah terikat DB8DtGHirG... (solana)
+[1]Viska       |11:51:18 | 12-10-2026| wallet: sudah terikat DB8DtGHirG... (solana)
 
 == RINGKASAN ==
-- Viska: daily=claimed | tasks OK 9/9 | misi klaim 0 (+0pt) | kuis benar 6 (+0pt) | watch 1/1 completed | musik 0 trek ~0s | artikel 0 dibaca | manga 0/13 completed | gift 0/3 diterima | profile - | wallet bound | mint req=true open=false
+- Viska: daily=already | tasks OK 6/6 | misi klaim 0 (+0pt) | kuis benar 6 (+0pt) | watch 0/0 completed | musik 0 trek ~0s | artikel 0 dibaca | manga 0/13 completed | gift 0/3 diterima | profile - | wallet bound | mint req=true open=false
